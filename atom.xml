@@ -6,7 +6,7 @@
   <link href="https://blog.sakuyaayane.me/atom.xml" rel="self"/>
   
   <link href="https://blog.sakuyaayane.me/"/>
-  <updated>2024-04-05T15:31:26.786Z</updated>
+  <updated>2024-04-05T15:54:54.048Z</updated>
   <id>https://blog.sakuyaayane.me/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>E2E平台粘贴功能恢复</title>
-    <link href="https://blog.sakuyaayane.me/posts/undefined/"/>
-    <id>https://blog.sakuyaayane.me/posts/undefined/</id>
+    <link href="https://blog.sakuyaayane.me/posts/64537/"/>
+    <id>https://blog.sakuyaayane.me/posts/64537/</id>
     <published>2024-04-05T15:14:47.000Z</published>
-    <updated>2024-04-05T15:31:26.786Z</updated>
+    <updated>2024-04-05T15:54:54.048Z</updated>
     
     <content type="html"><![CDATA[<h1 id="E2E平台粘贴功能恢复"><a href="#E2E平台粘贴功能恢复" class="headerlink" title="E2E平台粘贴功能恢复"></a>E2E平台粘贴功能恢复</h1><p>一个简单的脚本拜托不让你复制代码的烦恼，来自咲夜绫音。</p><h2 id="来源"><a href="#来源" class="headerlink" title="来源"></a>来源</h2><p>在E2E平台上 不知道出于何种原因 禁止了代码粘贴（目前为止我遇到的全部提示：“代码量较少 禁止粘贴”）。</p><p>实在是搞不懂一个代码提交平台 错误信息显示的这么不清楚 网页还不让粘贴代码。</p><p>自带的编辑框都没有代码高亮 手打Python字典真的是一种折磨。</p><h3 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h3><p>1.打开浏览器扩展商店 支持Edge&#x2F;Chrome&#x2F;Firefox</p><p>Edge可以在地址栏直接输入edge:&#x2F;&#x2F;extensions&#x2F;来前往扩展管理界面</p><p>2.搜索Tampermonkey 并安装</p><p><img src="https://s2.loli.net/2024/04/05/1ZYpNdfQaO5xTiw.png" alt="Install.png"></p><p>3.然后打开插件页面</p><p><a href="https://greasyfork.org/zh-CN/scripts/491722-%E6%81%A2%E5%A4%8D%E6%B2%B3%E5%8C%97%E5%B7%A5%E7%A8%8B%E5%A4%A7%E5%AD%A6e2e%E5%B9%B3%E5%8F%B0%E7%B2%98%E8%B4%B4%E5%8A%9F%E8%83%BD" title="链接标题">点我传送</a></p><p>4.点击安装脚本</p><p><img src="https://s2.loli.net/2024/04/05/7UPZJj8b16ISGQc.png" alt="Plugin.png"></p><p><img src="https://s2.loli.net/2024/04/05/NpyfkXVU2wSB7Kb.png" alt="Install2.png"></p><p>5.前往E2E平台 现在你的代码可以被愉快的粘贴了！且不影响正常提交，不会触发网站风控。</p>]]></content>
     
@@ -47,10 +47,10 @@
   
   <entry>
     <title>快速完成青年大学习</title>
-    <link href="https://blog.sakuyaayane.me/posts/undefined/"/>
-    <id>https://blog.sakuyaayane.me/posts/undefined/</id>
+    <link href="https://blog.sakuyaayane.me/posts/40914/"/>
+    <id>https://blog.sakuyaayane.me/posts/40914/</id>
     <published>2024-04-05T14:43:44.000Z</published>
-    <updated>2024-04-05T15:14:17.983Z</updated>
+    <updated>2024-04-05T15:54:54.051Z</updated>
     
     <content type="html"><![CDATA[<h1 id="青年大学习快速完成网站"><a href="#青年大学习快速完成网站" class="headerlink" title="青年大学习快速完成网站"></a>青年大学习快速完成网站</h1><p>帮助你更快的得到青年大学习的完成截图，并且可以在后台正常记录学习记录<br><a href="https://youthcracker.sakuyaayane.me/" title="链接标题">点我传送</a></p><h3 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h3><p>使用方法：先正常步骤打开青年大学习，开始学习后，在视频播放的同时单击右上角“···”，选择“复制链接”，然后粘贴到下方，然后单击“获取截图”。<br>然后在弹出的新页面里面，就是本期大学习的完成页面，现在你可以保存这个图片，愉快的交给团支书了。另外在你复制大学习视频链接的那一刻，大学习的后台就已经记录你的学习记录，因此后台导出的学习记录也是正常的，无需担心！</p><h3 id="使用效果"><a href="#使用效果" class="headerlink" title="使用效果"></a>使用效果</h3><p>跳过视频和答题，直接获取完成截图用于上交并且后台成功记录你的学习记录</p><h3 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h3><p>一定要复制正确的链接！</p><h3 id="网站截图"><a href="#网站截图" class="headerlink" title="网站截图"></a>网站截图</h3><p><img src="https://s2.loli.net/2024/04/05/8FsS42cyrXmEoaT.png" alt="20240405230751.png"></p>]]></content>
     
@@ -73,10 +73,10 @@
   
   <entry>
     <title>如何在断开SSH连接后继续运行一些程序</title>
-    <link href="https://blog.sakuyaayane.me/posts/undefined/"/>
-    <id>https://blog.sakuyaayane.me/posts/undefined/</id>
-    <published>2022-02-28T05:05:04.000Z</published>
-    <updated>2023-05-28T19:35:11.203Z</updated>
+    <link href="https://blog.sakuyaayane.me/posts/34411/"/>
+    <id>https://blog.sakuyaayane.me/posts/34411/</id>
+    <published>2022-02-27T21:05:04.000Z</published>
+    <updated>2024-04-05T15:56:19.070Z</updated>
     
     <content type="html"><![CDATA[<h1 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h1><p>我想在小金者粉丝群里面弄一个可以直播&#x2F;投稿自动推送的QQ机器人<br>在一番查询资料后 选择了DDBOT<br><a href="https://github.com/Sora233/DDBOT">DDBOT GitHub链接</a>  </p><h2 id="遇到的问题"><a href="#遇到的问题" class="headerlink" title="遇到的问题"></a>遇到的问题</h2><p>一番准备之后我发现 诶？我一断开SSH链接 就停止运行了  </p><h1 id="正篇-使用Screen命令"><a href="#正篇-使用Screen命令" class="headerlink" title="正篇 使用Screen命令"></a>正篇 使用Screen命令</h1><p>运行环境<kbd>Ubuntu 20.04 LTS</kbd><br>安装screen<br><code>sudo apt-get install screen</code><br>然后创建新myscreen会话<br><code>screen -S &lt;myscreen&gt;</code> 我这里用的是<code>screen -S QQbot</code><br>然后就会直接进入一个新的会话窗口 之后切换到DDBOT目录 通过<code>./DDBOT</code>启动DDBOT<br>设置完成后 我们同时按下键盘上的<kbd>ctrl+a+d</kbd> 来退出myscreen会话<br>这时 我们再断开SSH链接 DDBOT也会在后台运行<br>当我们想再链接到运行着DDBOT这个会话的时候 只需要输入<code>screen -r &lt;myscreen&gt;</code>  就行啦 </p><h1 id="附：Screen常用命令"><a href="#附：Screen常用命令" class="headerlink" title="附：Screen常用命令"></a>附：Screen常用命令</h1><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><code class="hljs plaintext">#安装screen<br>sudo apt-get install screen<br>#创建myscreen会话：<br>screen -S &lt;myscreen&gt;<br>#回到myscreen会话：<br>screen -r &lt;myscreen&gt;<br>#列出所有的会话<br>screen -ls &lt;myscreen&gt;<br>#退出指定会话<br>screen -X -S &lt;myscreen&gt; quit<br></code></pre></td></tr></table></figure>]]></content>
     
@@ -105,8 +105,8 @@
     <title>自己遇到的喜欢的句子摘抄</title>
     <link href="https://blog.sakuyaayane.me/posts/22867/"/>
     <id>https://blog.sakuyaayane.me/posts/22867/</id>
-    <published>2022-02-25T15:50:36.000Z</published>
-    <updated>2023-05-28T19:35:06.579Z</updated>
+    <published>2022-02-25T07:50:36.000Z</published>
+    <updated>2023-05-28T19:35:06.000Z</updated>
     
     <content type="html"><![CDATA[<p>If I approach infinity,Then you can be my,LIMITATIONS.<br>如果我趋近于无穷,那么你便可以成为,我的极限.          ————————《world.execute(me)》</p><p>I need you more than any blue sky<br>比起晴天 我更需要的是你啊.          ————————《天気の子》</p><p>空飛ぶ羽根と引き換えに　繋ぎ合う手を選んだ僕ら<br>没有选择飞翔的翅膀  而是选择十指相扣的我们       ————————《グランドエスケープ》</p><p>重力が眠りにつく　１０００年に一度の今日<br>当大地渐渐失去了重力   在千年一遇的今天          ————————《グランドエスケープ》</p><p>Take me home country roads.                      ————————《Take Me Home Country Roads》</p><p>武力是无能者最后的手段。<br>                            ——赛佛·哈定《银河帝国：基地》</p><p>有钱有闲是精英阶级的特点之一，这本身就是一种特权．      ——阿西莫夫《银河帝国：基地》</p><p>永远不要让道德观阻挡你去做正确的事                          ——赛佛·哈定《银河帝国：基地》</p><p>只会躲在别人身后的家伙，不管拥有什么的力量，也不会变强吧。  ——刘北《星游记》</p><p>真正相信奇迹的家伙，本身和奇迹一样了不起啊！  ——刘北《星游记》</p><p>所有草和花，都可以尽情生长的地方。那样的花田种满宇宙时，就是弱者也可以幸福的时代吧！ ——刘北《星游记》</p><p>在我背后，微笑地活下去吧！  ——刘北《星游记》</p><p>追逐什么,从来不需要谁认同,渺小却勇敢的漂流.    ——原子邦妮《在名为未来的波浪里》</p><p>Går genom staden tittar i marken,I alla andra de som ser färger.    ————————《Mardröm》<br>在城市里徘徊，目光注视着地面,整个世界都已失去了色彩</p>]]></content>
     
@@ -134,8 +134,8 @@
     <title>如何让自己的blog被Bing,Google,Baidu,收录</title>
     <link href="https://blog.sakuyaayane.me/posts/14112/"/>
     <id>https://blog.sakuyaayane.me/posts/14112/</id>
-    <published>2022-02-14T08:55:26.000Z</published>
-    <updated>2023-05-28T19:35:09.671Z</updated>
+    <published>2022-02-14T00:55:26.000Z</published>
+    <updated>2023-05-28T19:35:09.000Z</updated>
     
     <content type="html"><![CDATA[<p>本教程仅包含了Google Bing Baidu三家搜索引擎的教程<br>先从Google开始吧~</p><a href="https://search.google.com/search-console/welcome" title="[external] [title]" target="">Googlesearchconsole</a><p>前往Google search console<br>登录谷歌账号 然后选择网域(domain)验证<br>第一次验证会提示失败 然后弹出窗口 让你添加DNS记录<br>我们复制他给的记录值 前往自己的域名提供商的网站<br>添加TXT记录 然后把记录值复制进去即可<br>注意！DNS记录添加后不是立即生效 请稍作等待！<br>之后我们点击再次验证 验证成功后 即可进入控制台界面</p><img src="/posts/14112/1.png" class="" title="验证成功！"><p>然后我们点击左边菜单栏里面的站点地图选项<br>然后去我们网站根目录找一下有没有自动生成sitemap 如果没有 需要手动生成上传<br>如果有 请直接输入xxxxxx.xxxx&#x2F;你的站点地图名称 例：blog.ayane.cloud&#x2F;sitemap.xml<br>如果没有 请点击这个链接手动生成并上传 然后添加 <a href="https://sitemap.helay.net/map" title="[external] [title]" target="">生成站点地图</a><br>提交完毕后 Google就算添加完成了</p><p>Bing<br>前往必应站长管理界面</p><a href="https://www.bing.com/webmasters" title="[external] [title]" target="">必应站长管理界面</a><p>选择登陆方式后 登录<br>跟Google一样 选择左边的网站地图 输入sitemap链接后提交 等待即可</p><p>Baidu<br>（百度我觉得是最麻烦的一个了）</p><a href="https://ziyuan.baidu.com/site/siteadd#/" title="[external] [title]" target="">百度网站添加入口</a><p>然后添加网站 会提示我们补全一大堆个人信息 引起不适<br>然后选择一些相关的站点属性<br>验证网站我们选择文件验证 下载他给我们的校验文件 丢尽hexo&#x2F;public文件夹内 然后点击完成验证<br>校验完毕后进入管理界面 选择资源提交-普通收录 选择sitemap模式 提交站点地图链接即可<br>&#x3D;w&#x3D;<br>-The END-</p>]]></content>
     
@@ -161,8 +161,8 @@
     <title>解决biliup录制部分虎牙主播画质为最低的问题</title>
     <link href="https://blog.sakuyaayane.me/posts/36113/"/>
     <id>https://blog.sakuyaayane.me/posts/36113/</id>
-    <published>2022-02-10T03:00:07.000Z</published>
-    <updated>2023-05-28T19:35:05.547Z</updated>
+    <published>2022-02-09T19:00:07.000Z</published>
+    <updated>2023-05-28T19:35:05.000Z</updated>
     
     <content type="html"><![CDATA[<p>我负责了星际2主播 小金者的录播 后续选择了biliup进行录制 但是不论我怎么更改配置 录制下来的画质一直为最低<br>群内大佬讨论后提出了解决办法 现在将方法放在这里<br>第一步 获取虎牙直播地址直链<br>这里我使用的是油猴脚本里面的插件 </p><img src="/posts/36113/1.png" class="" title="虎牙plus"><p>然后获取直链地址<br>第二步 获取码率信息<br>找到你获取的地址 从末尾往前看 “ratio&#x3D;xxxx”这里则是码率信息<br>然后打开biliup的插件文件夹<br>我的是在 &#x2F;usr&#x2F;local&#x2F;lib&#x2F;python3.8&#x2F;dist-packages&#x2F;biliup&#x2F;plugins<br>找到huya.py 编辑它<br>在line32</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs plaintext">self.raw_stream_url = html.unescape(absurl)<br></code></pre></td></tr></table></figure><p>的后面加上</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs plaintext">+&quot;&amp;ratio=xxxx&quot;<br></code></pre></td></tr></table></figure><p>xxxx为前面你刚刚获取的信息<br>然后保存 重启biliup 即可录制该画质的直播</p>]]></content>
     
@@ -190,8 +190,8 @@
     <title>如何给自己的blog申请SSL证书</title>
     <link href="https://blog.sakuyaayane.me/posts/42513/"/>
     <id>https://blog.sakuyaayane.me/posts/42513/</id>
-    <published>2022-02-09T13:39:04.000Z</published>
-    <updated>2023-05-28T19:35:10.691Z</updated>
+    <published>2022-02-09T05:39:04.000Z</published>
+    <updated>2023-05-28T19:35:10.000Z</updated>
     
     <content type="html"><![CDATA[<p>在建立了自己的blog后 访问会提示不安全 于是强迫症的我想要给网站加上一把“锁”<br>本篇将详细介绍教程<br>第一步 安装SNAPD</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs plaintext">sudo apt update<br>sudo apt install snapd<br></code></pre></td></tr></table></figure><p>第二步 验证SNAPD是否正常运行</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs plaintext">sudo snap install hello-world<br>hello-world<br></code></pre></td></tr></table></figure><p>两个指令将分别返回</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs plaintext">hello-world 6.4 from Canonical✓ installed<br>Hello World!<br></code></pre></td></tr></table></figure><p>到此 SNAPD安装完成<br>第三步 确保正在使用最新版本</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs plaintext">sudo snap install core; sudo snap refresh core<br></code></pre></td></tr></table></figure><p>第四步 安装自动部署机器人</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs plaintext">sudo certbot --nginx （这里我使用的是Nginx 如果你用别的请改掉）<br></code></pre></td></tr></table></figure><p>然后会开始自动部署SSL证书 需要同意诺干协议和填写邮箱和你要申请证书的域名<br>最后一步 添加到期自动续订SSL证书</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs plaintext">sudo certbot renew --dry-run<br></code></pre></td></tr></table></figure>]]></content>
     
@@ -219,8 +219,8 @@
     <title>关于加速我的世界Hypixel的新想法</title>
     <link href="https://blog.sakuyaayane.me/posts/26214/"/>
     <id>https://blog.sakuyaayane.me/posts/26214/</id>
-    <published>2022-02-09T12:16:23.000Z</published>
-    <updated>2023-05-28T19:35:12.223Z</updated>
+    <published>2022-02-09T04:16:23.000Z</published>
+    <updated>2023-05-28T19:35:12.000Z</updated>
     
     <content type="html"><![CDATA[<p>在之前我有一篇博客提到了怎么搭建Hypixel加速ip<br>但是后来我发现加速效果并不好 缺少国内中转和高素质的线路<br>经过朋友提醒 应该使用IPLC的机器 但是经过我的查询 各大主流服务商带IPLC线路的机器价格高昂 不适合个人使用<br>但是突然发现了别的东西 就是IPLC流量转发服务 可以选择TCP转发 然后输入目标IP即可~</p><img src="/posts/26214/1.png" class="" title="IPLC转发服务"><p>这是否给我们一直购买加速ip的玩家一个新的途径呢？ 毕竟这个价格可比加速ip便宜很多 而且还是按量付费~</p><p>未完待续~</p>]]></content>
     
@@ -235,9 +235,9 @@
     <category term="教程类" scheme="https://blog.sakuyaayane.me/categories/%E6%95%99%E7%A8%8B%E7%B1%BB/"/>
     
     
-    <category term="突发奇想" scheme="https://blog.sakuyaayane.me/tags/%E7%AA%81%E5%8F%91%E5%A5%87%E6%83%B3/"/>
-    
     <category term="教程" scheme="https://blog.sakuyaayane.me/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="突发奇想" scheme="https://blog.sakuyaayane.me/tags/%E7%AA%81%E5%8F%91%E5%A5%87%E6%83%B3/"/>
     
     <category term="未完待续" scheme="https://blog.sakuyaayane.me/tags/%E6%9C%AA%E5%AE%8C%E5%BE%85%E7%BB%AD/"/>
     
@@ -247,8 +247,8 @@
     <title>我见过的UI最好看的SSH工具</title>
     <link href="https://blog.sakuyaayane.me/posts/4232/"/>
     <id>https://blog.sakuyaayane.me/posts/4232/</id>
-    <published>2022-02-09T11:49:42.000Z</published>
-    <updated>2023-05-28T19:35:07.599Z</updated>
+    <published>2022-02-09T03:49:42.000Z</published>
+    <updated>2023-05-28T19:35:07.000Z</updated>
     
     <content type="html"><![CDATA[<p>今天FinalShell突然抽风 更改文件后不能上传保存 于是在网上搜索新的SSH工具<br>Xshell和Xftp我用不习惯 更喜欢二者合一的软件<br>偶然发现了Termius这款软件</p><img src="/posts/4232/1.png" class="" title="UI界面"><img src="/posts/4232/2.png" class="" title="UI界面"><img src="/posts/4232/3.png" class="" title="UI界面"><p>UI好看只是一部分 最重要的是关键的功能一应俱全~<br>官网:<a href="https://termius.com/">https://termius.com/</a><br>我通过github学生申请拿到了免费资格 同时该SSH客户端还支持IOS 安卓等多个平台 太棒了</p>]]></content>
     
@@ -276,8 +276,8 @@
     <title>使用Nginx部署Hexo站点</title>
     <link href="https://blog.sakuyaayane.me/posts/59295/"/>
     <id>https://blog.sakuyaayane.me/posts/59295/</id>
-    <published>2022-01-19T11:32:23.000Z</published>
-    <updated>2023-05-28T19:35:13.259Z</updated>
+    <published>2022-01-19T03:32:23.000Z</published>
+    <updated>2023-05-28T19:35:13.000Z</updated>
     
     <content type="html"><![CDATA[<p>搭建环境:Centos7<br>第一步 安装并运行Nginx<br>从0开始安装依赖</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs plaintext">yum install gcc-c++ -y<br>yum install -y openssl openssl-devel<br>yum install -y zlib zlib-devel<br>yum install -y pcre pcre-devel<br></code></pre></td></tr></table></figure><p>开始正式安装Nginx<br><a href="http://nginx.org/">http://nginx.org/</a> 前往Nginx官网下载最新版</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs plaintext">mkdir -p Nginx/install<br>cd Nginx/install<br>tar -xvf nginx-1.20.2.tar.gz<br></code></pre></td></tr></table></figure><p>解压后运行安装指令</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs plaintext">cd nginx-1.20.2<br>./configure<br>make<br>make install<br></code></pre></td></tr></table></figure><p>启动！Link Start</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs plaintext">cd /usr/local/nginx/sbin<br>./nginx<br></code></pre></td></tr></table></figure><p>第二步 用Nginx来访问Hexo静态文件<br>切记！！ Nginx有多个配置文件 修改解压目录即刚刚新建的那个文件夹里面的配置文件是无效的！！（吃过大亏的我）<br>你应该使用Whereis指令找到Nginx安装目录</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs plaintext">whereis nginx<br></code></pre></td></tr></table></figure><img src="/posts/59295/3.png" class="" title="whereis指令"><p>Nginx目录下打开conf&#x2F;nginx.conf文件 修改部分内容</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs plaintext">.......<br>location / &#123;<br>            root   html;<br>            index  index.html;<br>.......<br></code></pre></td></tr></table></figure><p>改为</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs plaintext">location / &#123;<br>            root   ****/public; #你Hexo生成的public文件目录<br>            index  index.html;<br></code></pre></td></tr></table></figure><p>之后回到Nginx目录 重新加载Nginx</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs plaintext">nginx -s reload<br></code></pre></td></tr></table></figure><p>重新访问<a href="http://127.0.0.1/">http://127.0.0.1:80</a>  如果不行请注意 浏览器缓存问题<br>常见问题：<br>配置完成后 打开网页 显示403错误 该错误是Nginx无权限打开该文件导致的<br>找到Nginx“安装目录” 修改Nginx.conf配置文件<br>将配置文件头部注释行：# user nobody;的注释去掉并改为user root; ←请注意不要忘记分号！ 之后重启Nginx即可！</p>]]></content>
     
@@ -299,8 +299,8 @@
     <title>Hypixel加速ip搭建教学</title>
     <link href="https://blog.sakuyaayane.me/posts/14736/"/>
     <id>https://blog.sakuyaayane.me/posts/14736/</id>
-    <published>2022-01-19T11:03:36.000Z</published>
-    <updated>2023-05-28T19:35:14.283Z</updated>
+    <published>2022-01-19T03:03:36.000Z</published>
+    <updated>2023-05-28T19:35:14.000Z</updated>
     
     <content type="html"><![CDATA[<p>因为本人也是MC玩家 Hyp延迟过高 丢包 一直困扰着我 但是自己又觉得买hyp的加速ip不合算<br>(后记 还是买的划算 啊哈哈哈）<br>此篇记录了我是如何搭建属于自己的Hyp加速ip的<br>跟上一篇搭建代理服务器一样 我们同样需要一个脚本 Brook-流量转发脚本</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs plaintext">wget blog.14mt.cn/API/brook.sh<br>sh brook.sh<br></code></pre></td></tr></table></figure><img src="/posts/14736/1.png" class="" title="管理界面"><p>进入管理界面后 先按1 安装<br>等待安装完成后 我们再次输入</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs plaintext">sh brook.sh<br></code></pre></td></tr></table></figure><p>再次来到这个管理界面 输入7 开始设置端口 选择1<br>然后我们填入mc的端口 “25565”  回车<br>然后这里的被转发IP需要我们在自己电脑上 打开CMD 输入</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs plaintext">ping mc.hypixel.net<br></code></pre></td></tr></table></figure><img src="/posts/14736/2.png" class="" title="CMD界面"><p>然后我们复制ping出来的数字ip 填入刚刚的地方 然后回车<br>最后被转发端口我们依然填写25565<br>最后一步！ 开放25565端口</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs plaintext">firewall-cmd --zone=public --add-port=25565/tcp --permanent<br></code></pre></td></tr></table></figure><p>然后你会发现 使用你的IP不能进入服务器 hypixel会阻止你链接<br>这时候我们需要前往自己电脑的hosts文件 在其中添加</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs plaintext">你购买的服务器ip 你随便.hypixel.net<br></code></pre></td></tr></table></figure><p>例如我的就是</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs plaintext">xxx.xxx.xxx.xxx ayane.hypixel.net<br></code></pre></td></tr></table></figure><p>然后使用ayane.hypixel.net链接即可</p>]]></content>
     
@@ -321,8 +321,8 @@
     <title>搭建blog的过程以及遇到的一些问题</title>
     <link href="https://blog.sakuyaayane.me/posts/45056/"/>
     <id>https://blog.sakuyaayane.me/posts/45056/</id>
-    <published>2022-01-17T20:27:31.000Z</published>
-    <updated>2023-05-28T19:35:07.087Z</updated>
+    <published>2022-01-17T12:27:31.000Z</published>
+    <updated>2023-05-28T19:35:07.000Z</updated>
     
     <content type="html"><![CDATA[<p>首先 Step1 打开网易云音乐 :D<br>作为一个小白 对于代码什么的会消耗我大量的时间和耐心 所以音乐是必不可少的</p><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1473844695&auto=1&height=66"></iframe><p>Step2 购买虚拟主机<br>我用的是咖啡云 <a href="https://www.kafeyun.com/">https://www.kafeyun.com/</a><br>使用体验还不错 打开网页的速度也不慢<br>Step3 下载SSH软件<br>这里我用的是FinalShell 这里就不给下载链接了  必应一搜第一个就是<br>Step4 正式开始搭建blog<br>搭建blog我使用的是hexo 需要提前安装Node.js环境<br>使用二进制文件安装</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs plaintext">wget https://nodejs.org/dist/v6.9.5/node-v6.9.5-linux-x64.tar.xz<br>tar xvf node-v6.9.5-linux-x64.tar.xz<br>ln -s /root/node-v6.9.5-linux-x64/bin/node /usr/local/bin/node<br>ln -s /root/node-v6.9.5-linux-x64/bin/npm /usr/local/bin/npm<br></code></pre></td></tr></table></figure><p>安装后可以通过下列指令查看版本信息</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs plaintext">node -v<br>npm -v<br></code></pre></td></tr></table></figure><p>参考:<a href="https://help.aliyun.com/document_detail/50775.html">https://help.aliyun.com/document_detail/50775.html</a><br>Step5 安装Hexo<br>根据Hexo官网的教程 运行以下指令</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs plaintext">npm install hexo-cli -g<br>hexo init blog<br>cd blog<br>npm install<br>hexo server<br></code></pre></td></tr></table></figure><p>然后打开 ip:4000验证网页是否正常创建<br>搭建blog的一个目的就是要够帅嘛 这个自带的主题肯定不符合我的要求 于是前往<a href="https://hexo.io/themes/">https://hexo.io/themes/</a> 搜索主题<br>可以看到很多主题的预览界面 直接选择喜欢的点进去 就有安装教程<br>先安装插件</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs plaintext">npm install --save hexo-renderer-jade hexo-generator-feed<br></code></pre></td></tr></table></figure><p>然后安装你选择的主题<br>git clone 你选择的主题里面给你的github链接<br>修改_config.yml文件中的theme属性，以及主题的相应配置 在blog文件里面<br>把theme:landescape 改成theme:你选择的主题的名字<br>最后重新生成静态网页并且启动服务器</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs plaintext">hexo g &amp;&amp; hexo s<br></code></pre></td></tr></table></figure><p>在这时候我发现 在我断开SSH链接后 我的blog就不能打开了<br>于是又是一波查资料<br>Step 6 使用脚本让Hexo后台运行<br>参考:<a href="https://blog.csdn.net/weixin_43979133/article/details/104787865">https://blog.csdn.net/weixin_43979133/article/details/104787865</a><br>首先安装PM2 </p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs plaintext">npm install -g pm2<br></code></pre></td></tr></table></figure><p>用pm2 -v 进行验证<br>前往blog目录 新建hexo_run.js<br>打开编辑 写入代码:</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><code class="hljs plaintext">//run<br>const &#123; exec &#125; = require(&#x27;child_process&#x27;)<br>exec(&#x27;hexo server&#x27;,(error, stdout, stderr) =&gt; &#123;<br>if(error)&#123;<br>console.log(&#x27;exec error: $&#123;error&#125;&#x27;)<br>return<br>&#125;<br>console.log(&#x27;stdout: $&#123;stdout&#125;&#x27;);<br>console.log(&#x27;stderr: $&#123;stderr&#125;&#x27;);<br>&#125;)<br></code></pre></td></tr></table></figure><p>保存<br>最后在blog目录执行命令<br>pm2 start hexo_run.js<br>断开 SSH链接 验证是否可以后台运行</p><p>至此 我的blog创建完毕 OvO</p>]]></content>
     
