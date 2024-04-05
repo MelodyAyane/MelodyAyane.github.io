@@ -6,7 +6,7 @@
   <link href="https://blog.sakuyaayane.me/atom.xml" rel="self"/>
   
   <link href="https://blog.sakuyaayane.me/"/>
-  <updated>2023-05-28T19:35:11.203Z</updated>
+  <updated>2024-04-05T15:31:26.786Z</updated>
   <id>https://blog.sakuyaayane.me/</id>
   
   <author>
@@ -15,6 +15,61 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>E2E平台粘贴功能恢复</title>
+    <link href="https://blog.sakuyaayane.me/posts/undefined/"/>
+    <id>https://blog.sakuyaayane.me/posts/undefined/</id>
+    <published>2024-04-05T15:14:47.000Z</published>
+    <updated>2024-04-05T15:31:26.786Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="E2E平台粘贴功能恢复"><a href="#E2E平台粘贴功能恢复" class="headerlink" title="E2E平台粘贴功能恢复"></a>E2E平台粘贴功能恢复</h1><p>一个简单的脚本拜托不让你复制代码的烦恼，来自咲夜绫音。</p><h2 id="来源"><a href="#来源" class="headerlink" title="来源"></a>来源</h2><p>在E2E平台上 不知道出于何种原因 禁止了代码粘贴（目前为止我遇到的全部提示：“代码量较少 禁止粘贴”）。</p><p>实在是搞不懂一个代码提交平台 错误信息显示的这么不清楚 网页还不让粘贴代码。</p><p>自带的编辑框都没有代码高亮 手打Python字典真的是一种折磨。</p><h3 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h3><p>1.打开浏览器扩展商店 支持Edge&#x2F;Chrome&#x2F;Firefox</p><p>Edge可以在地址栏直接输入edge:&#x2F;&#x2F;extensions&#x2F;来前往扩展管理界面</p><p>2.搜索Tampermonkey 并安装</p><p><img src="https://s2.loli.net/2024/04/05/1ZYpNdfQaO5xTiw.png" alt="Install.png"></p><p>3.然后打开插件页面</p><p><a href="https://greasyfork.org/zh-CN/scripts/491722-%E6%81%A2%E5%A4%8D%E6%B2%B3%E5%8C%97%E5%B7%A5%E7%A8%8B%E5%A4%A7%E5%AD%A6e2e%E5%B9%B3%E5%8F%B0%E7%B2%98%E8%B4%B4%E5%8A%9F%E8%83%BD" title="链接标题">点我传送</a></p><p>4.点击安装脚本</p><p><img src="https://s2.loli.net/2024/04/05/7UPZJj8b16ISGQc.png" alt="Plugin.png"></p><p><img src="https://s2.loli.net/2024/04/05/NpyfkXVU2wSB7Kb.png" alt="Install2.png"></p><p>5.前往E2E平台 现在你的代码可以被愉快的粘贴了！且不影响正常提交，不会触发网站风控。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;E2E平台粘贴功能恢复&quot;&gt;&lt;a href=&quot;#E2E平台粘贴功能恢复&quot; class=&quot;headerlink&quot; title=&quot;E2E平台粘贴功能恢复&quot;&gt;&lt;/a&gt;E2E平台粘贴功能恢复&lt;/h1&gt;&lt;p&gt;一个简单的脚本拜托不让你复制代码的烦恼，来自咲夜绫音。&lt;/p&gt;
+&lt;h</summary>
+      
+    
+    
+    
+    <category term="分享类" scheme="https://blog.sakuyaayane.me/categories/%E5%88%86%E4%BA%AB%E7%B1%BB/"/>
+    
+    
+    <category term="分享" scheme="https://blog.sakuyaayane.me/tags/%E5%88%86%E4%BA%AB/"/>
+    
+    <category term="河北工程大学" scheme="https://blog.sakuyaayane.me/tags/%E6%B2%B3%E5%8C%97%E5%B7%A5%E7%A8%8B%E5%A4%A7%E5%AD%A6/"/>
+    
+    <category term="E2E平台" scheme="https://blog.sakuyaayane.me/tags/E2E%E5%B9%B3%E5%8F%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>快速完成青年大学习</title>
+    <link href="https://blog.sakuyaayane.me/posts/undefined/"/>
+    <id>https://blog.sakuyaayane.me/posts/undefined/</id>
+    <published>2024-04-05T14:43:44.000Z</published>
+    <updated>2024-04-05T15:14:17.983Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="青年大学习快速完成网站"><a href="#青年大学习快速完成网站" class="headerlink" title="青年大学习快速完成网站"></a>青年大学习快速完成网站</h1><p>帮助你更快的得到青年大学习的完成截图，并且可以在后台正常记录学习记录<br><a href="https://youthcracker.sakuyaayane.me/" title="链接标题">点我传送</a></p><h3 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h3><p>使用方法：先正常步骤打开青年大学习，开始学习后，在视频播放的同时单击右上角“···”，选择“复制链接”，然后粘贴到下方，然后单击“获取截图”。<br>然后在弹出的新页面里面，就是本期大学习的完成页面，现在你可以保存这个图片，愉快的交给团支书了。另外在你复制大学习视频链接的那一刻，大学习的后台就已经记录你的学习记录，因此后台导出的学习记录也是正常的，无需担心！</p><h3 id="使用效果"><a href="#使用效果" class="headerlink" title="使用效果"></a>使用效果</h3><p>跳过视频和答题，直接获取完成截图用于上交并且后台成功记录你的学习记录</p><h3 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h3><p>一定要复制正确的链接！</p><h3 id="网站截图"><a href="#网站截图" class="headerlink" title="网站截图"></a>网站截图</h3><p><img src="https://s2.loli.net/2024/04/05/8FsS42cyrXmEoaT.png" alt="20240405230751.png"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;青年大学习快速完成网站&quot;&gt;&lt;a href=&quot;#青年大学习快速完成网站&quot; class=&quot;headerlink&quot; title=&quot;青年大学习快速完成网站&quot;&gt;&lt;/a&gt;青年大学习快速完成网站&lt;/h1&gt;&lt;p&gt;帮助你更快的得到青年大学习的完成截图，并且可以在后台正常记录学习记录</summary>
+      
+    
+    
+    
+    <category term="分享类" scheme="https://blog.sakuyaayane.me/categories/%E5%88%86%E4%BA%AB%E7%B1%BB/"/>
+    
+    
+    <category term="分享" scheme="https://blog.sakuyaayane.me/tags/%E5%88%86%E4%BA%AB/"/>
+    
+    <category term="青年大学习" scheme="https://blog.sakuyaayane.me/tags/%E9%9D%92%E5%B9%B4%E5%A4%A7%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
   
   <entry>
     <title>如何在断开SSH连接后继续运行一些程序</title>
@@ -253,28 +308,6 @@
       
       
     <summary type="html">&lt;p&gt;因为本人也是MC玩家 Hyp延迟过高 丢包 一直困扰着我 但是自己又觉得买hyp的加速ip不合算&lt;br&gt;(后记 还是买的划算 啊哈哈哈）&lt;br&gt;此篇记录了我是如何搭建属于自己的Hyp加速ip的&lt;br&gt;跟上一篇搭建代理服务器一样 我们同样需要一个脚本 Brook-流量转发脚本</summary>
-      
-    
-    
-    
-    <category term="教程类" scheme="https://blog.sakuyaayane.me/categories/%E6%95%99%E7%A8%8B%E7%B1%BB/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>利用我的blog服务器搭建代理服务器</title>
-    <link href="https://blog.sakuyaayane.me/posts/31425/"/>
-    <id>https://blog.sakuyaayane.me/posts/31425/</id>
-    <published>2022-01-17T20:48:16.000Z</published>
-    <updated>2023-05-28T19:35:11.715Z</updated>
-    
-    <content type="html"><![CDATA[<p>仔细研究了我在咖啡云购买的服务器套餐 发现我有每个月800G的流量 并且我买的服务器是CN2<br>于是我决定在这台服务器上搭建代理服务 来使用<br>（更好的刷推 后记:使用机场的代理会出现点赞点不上等问题 但是我自己搭建的完全没有这个问题）<br>第一步 安装ShadowsocksR一键部署脚本</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs plaintext">yum -y install wget<br>wget -N –no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssr.sh &amp;&amp; chmod +x ssr.sh &amp;&amp; bash ssr.sh<br>然后执行<br>bash ssr.sh <br></code></pre></td></tr></table></figure><p>之后按照提示创建代理服务器即可 全部默认也没有关系qwq<br>手机上下载SSR客户端 照着搭建完毕后给出的信息填入客户端 开启代理即可</p><p>参考:<br><a href="https://xtrojan.cc/bgfw/shadowsocksr/step-by-step-to-build-shadowlocksr-ssr-server-graphic-tutorial.html">https://xtrojan.cc/bgfw/shadowsocksr/step-by-step-to-build-shadowlocksr-ssr-server-graphic-tutorial.html</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;仔细研究了我在咖啡云购买的服务器套餐 发现我有每个月800G的流量 并且我买的服务器是CN2&lt;br&gt;于是我决定在这台服务器上搭建代理服务 来使用&lt;br&gt;（更好的刷推 后记:使用机场的代理会出现点赞点不上等问题 但是我自己搭建的完全没有这个问题）&lt;br&gt;第一步 安装Shado</summary>
       
     
     
