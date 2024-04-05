@@ -6,7 +6,7 @@
   <link href="https://blog.sakuyaayane.me/atom.xml" rel="self"/>
   
   <link href="https://blog.sakuyaayane.me/"/>
-  <updated>2024-04-05T15:54:54.048Z</updated>
+  <updated>2024-04-05T16:26:29.609Z</updated>
   <id>https://blog.sakuyaayane.me/</id>
   
   <author>
@@ -21,14 +21,14 @@
     <link href="https://blog.sakuyaayane.me/posts/64537/"/>
     <id>https://blog.sakuyaayane.me/posts/64537/</id>
     <published>2024-04-05T15:14:47.000Z</published>
-    <updated>2024-04-05T15:54:54.048Z</updated>
+    <updated>2024-04-05T16:26:29.609Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="E2E平台粘贴功能恢复"><a href="#E2E平台粘贴功能恢复" class="headerlink" title="E2E平台粘贴功能恢复"></a>E2E平台粘贴功能恢复</h1><p>一个简单的脚本拜托不让你复制代码的烦恼，来自咲夜绫音。</p><h2 id="来源"><a href="#来源" class="headerlink" title="来源"></a>来源</h2><p>在E2E平台上 不知道出于何种原因 禁止了代码粘贴（目前为止我遇到的全部提示：“代码量较少 禁止粘贴”）。</p><p>实在是搞不懂一个代码提交平台 错误信息显示的这么不清楚 网页还不让粘贴代码。</p><p>自带的编辑框都没有代码高亮 手打Python字典真的是一种折磨。</p><h3 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h3><p>1.打开浏览器扩展商店 支持Edge&#x2F;Chrome&#x2F;Firefox</p><p>Edge可以在地址栏直接输入edge:&#x2F;&#x2F;extensions&#x2F;来前往扩展管理界面</p><p>2.搜索Tampermonkey 并安装</p><p><img src="https://s2.loli.net/2024/04/05/1ZYpNdfQaO5xTiw.png" alt="Install.png"></p><p>3.然后打开插件页面</p><p><a href="https://greasyfork.org/zh-CN/scripts/491722-%E6%81%A2%E5%A4%8D%E6%B2%B3%E5%8C%97%E5%B7%A5%E7%A8%8B%E5%A4%A7%E5%AD%A6e2e%E5%B9%B3%E5%8F%B0%E7%B2%98%E8%B4%B4%E5%8A%9F%E8%83%BD" title="链接标题">点我传送</a></p><p>4.点击安装脚本</p><p><img src="https://s2.loli.net/2024/04/05/7UPZJj8b16ISGQc.png" alt="Plugin.png"></p><p><img src="https://s2.loli.net/2024/04/05/NpyfkXVU2wSB7Kb.png" alt="Install2.png"></p><p>5.前往E2E平台 现在你的代码可以被愉快的粘贴了！且不影响正常提交，不会触发网站风控。</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="E2E平台粘贴功能恢复"><a href="#E2E平台粘贴功能恢复" class="headerlink" title="E2E平台粘贴功能恢复"></a>E2E平台粘贴功能恢复</h1><p>一个简单的脚本摆脱不让你复制代码的烦恼，来自咲夜绫音。</p><h2 id="来源"><a href="#来源" class="headerlink" title="来源"></a>来源</h2><p>在E2E平台上 不知道出于何种原因 禁止了代码粘贴（目前为止我遇到的全部都提示：“代码量较少 禁止粘贴”）。</p><p>实在是搞不懂一个代码提交平台 错误信息显示的这么不清楚 网页还不让粘贴代码。</p><p>自带的编辑框都没有代码高亮 手打Python字典真的是一种折磨。</p><h3 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h3><p>1.打开浏览器扩展商店 支持Edge&#x2F;Chrome&#x2F;Firefox</p><p>Edge可以在地址栏直接输入edge:&#x2F;&#x2F;extensions&#x2F;来前往扩展管理界面</p><p>2.搜索Tampermonkey 并安装</p><p><img src="https://s2.loli.net/2024/04/05/1ZYpNdfQaO5xTiw.png" alt="Install.png"></p><p>3.然后打开插件页面</p><p><a href="https://greasyfork.org/zh-CN/scripts/491722-%E6%81%A2%E5%A4%8D%E6%B2%B3%E5%8C%97%E5%B7%A5%E7%A8%8B%E5%A4%A7%E5%AD%A6e2e%E5%B9%B3%E5%8F%B0%E7%B2%98%E8%B4%B4%E5%8A%9F%E8%83%BD" title="链接标题">点我传送</a></p><p>4.点击安装脚本</p><p><img src="https://s2.loli.net/2024/04/05/7UPZJj8b16ISGQc.png" alt="Plugin.png"></p><p><img src="https://s2.loli.net/2024/04/05/NpyfkXVU2wSB7Kb.png" alt="Install2.png"></p><p>5.前往E2E平台 现在你的代码可以被愉快的粘贴了！且不影响正常提交，不会触发网站风控。</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;E2E平台粘贴功能恢复&quot;&gt;&lt;a href=&quot;#E2E平台粘贴功能恢复&quot; class=&quot;headerlink&quot; title=&quot;E2E平台粘贴功能恢复&quot;&gt;&lt;/a&gt;E2E平台粘贴功能恢复&lt;/h1&gt;&lt;p&gt;一个简单的脚本拜托不让你复制代码的烦恼，来自咲夜绫音。&lt;/p&gt;
+    <summary type="html">&lt;h1 id=&quot;E2E平台粘贴功能恢复&quot;&gt;&lt;a href=&quot;#E2E平台粘贴功能恢复&quot; class=&quot;headerlink&quot; title=&quot;E2E平台粘贴功能恢复&quot;&gt;&lt;/a&gt;E2E平台粘贴功能恢复&lt;/h1&gt;&lt;p&gt;一个简单的脚本摆脱不让你复制代码的烦恼，来自咲夜绫音。&lt;/p&gt;
 &lt;h</summary>
       
     
